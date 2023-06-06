@@ -1,0 +1,655 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: 'BF0B817EF4350D4DFDF2B9508AE44C70',
+    participant: undefined
+  },
+  messageTimestamp: 1686084531,
+  pushName: 'Michel',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: '257E61CED014708B5FD97172879B2422',
+    participant: undefined
+  },
+  messageTimestamp: 1686084535,
+  pushName: 'Michel',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: 'D603FE12C20B371E9E36C5CE3403F7E8',
+    participant: undefined
+  },
+  messageTimestamp: 1686084539,
+  pushName: 'Michel',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: 'B518B8983FB3A27B8E282C87D8AEBD86',
+    participant: undefined
+  },
+  messageTimestamp: 1686084542,
+  pushName: 'Michel',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: 'D9399A41CF5890E2B399A4AFF86FEF8C',
+    participant: undefined
+  },
+  messageTimestamp: 1686084546,
+  pushName: 'Michel',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: '1511AF2511E0130269E67FE153471D13',
+    participant: undefined
+  },
+  messageTimestamp: 1686084549,
+  pushName: 'Michel',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51997178403@s.whatsapp.net',
+    fromMe: false,
+    id: 'E73383E5104922E0983EC2A5D043B092',
+    participant: undefined
+  },
+  messageTimestamp: 1686084554,
+  pushName: 'Michel',
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '51997178403'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A288C66356693C3F884',
+    participant: undefined
+  },
+  messageTimestamp: 1686086115,
+  pushName: 'Jhade A',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-2326428b-52df-4ad9-ba1a-541fd70b7b0d?ccb=9-4&oh=01_AdTb_znSoxNgINwMJAmAsAG0haD0OdzLT0e653aqU908wQ&oe=64A71BCA&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-2326428b-52df-4ad9-ba1a-541fd70b7b0d?ccb=9-4&oh=01_AdTb_znSoxNgINwMJAmAsAG0haD0OdzLT0e653aqU908wQ&oe=64A71BCA',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 7047,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__b896cc34-514e-4dbb-8654-2021f12b78ce',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A73BA2F1235AD5CECC0',
+    participant: undefined
+  },
+  messageTimestamp: 1686086127,
+  pushName: 'Jhade A',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '❤️',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7A71E1EEAEB44BF741',
+    participant: undefined
+  },
+  messageTimestamp: 1686086371,
+  pushName: 'Jhade A',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Los straps si son buena ayuda nd más debemos saber usarlos',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Los straps si son buena ayuda nd más debemos saber usarlos',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A59A7078BBBE3F1A2FC',
+    participant: undefined
+  },
+  messageTimestamp: 1686086372,
+  pushName: 'Jhade A',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/33300056_552086010472550_4693660142733058654_n.enc?ccb=11-4&oh=01_AdQk9t9hdXAm3CYscIbKc8ps9bpH7AqEkjLKJMLLgc0zkA&oe=64A7142F&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/33300056_552086010472550_4693660142733058654_n.enc?ccb=11-4&oh=01_AdQk9t9hdXAm3CYscIbKc8ps9bpH7AqEkjLKJMLLgc0zkA&oe=64A7142F',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD370106B29B0FD45B',
+    participant: undefined
+  },
+  messageTimestamp: 1686086428,
+  pushName: 'Jhade A',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Pero yo hago esoOoOoOo',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero yo hago esoOoOoOo',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF8B3C9486F7272519A',
+    participant: undefined
+  },
+  messageTimestamp: 1686086432,
+  pushName: 'Jhade A',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Eso no he echo',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Eso no he echo',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2ABF0C021900D8E882',
+    participant: undefined
+  },
+  messageTimestamp: 1686086442,
+  pushName: 'Jhade A',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-34ec2e6c-2eda-4695-bafb-c5bfcfb0b60e?ccb=9-4&oh=01_AdRi-7B-n-U1kTlg5VdAaCxZFBjt5pcAKRry6QXg4Q74FA&oe=64A718FC&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-34ec2e6c-2eda-4695-bafb-c5bfcfb0b60e?ccb=9-4&oh=01_AdRi-7B-n-U1kTlg5VdAaCxZFBjt5pcAKRry6QXg4Q74FA&oe=64A718FC',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 7385,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__19a65b54-aa46-4608-8c8a-d508dedf9e17',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB52358D5E93BFC051B',
+    participant: undefined
+  },
+  messageTimestamp: 1686086446,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'Amor ahí q hago',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Amor ahí q hago',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA2B955360C00D35B2B',
+    participant: undefined
+  },
+  messageTimestamp: 1686086447,
+  pushName: 'Jhade A',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/31381868_1198564037369981_3302499715573716310_n.enc?ccb=11-4&oh=01_AdQAJeb5-_C9w7wSFo8lkeL7gNmQ40Cq306GdBpQqMRmHg&oe=64A71180&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/31381868_1198564037369981_3302499715573716310_n.enc?ccb=11-4&oh=01_AdQAJeb5-_C9w7wSFo8lkeL7gNmQ40Cq306GdBpQqMRmHg&oe=64A71180',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0AAAE62A3E0213A415',
+    participant: undefined
+  },
+  messageTimestamp: 1686087268,
+  pushName: 'Jhade A',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-bbb9c634-e2f9-4d98-956d-15d5c9eb7ec6?ccb=9-4&oh=01_AdSFf5LSQa3b-yGjLY4n5CSAwOqA8QMBv09s6OF5LB6T_A&oe=64A70021&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-bbb9c634-e2f9-4d98-956d-15d5c9eb7ec6?ccb=9-4&oh=01_AdSFf5LSQa3b-yGjLY4n5CSAwOqA8QMBv09s6OF5LB6T_A&oe=64A70021',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 6797,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__295219c5-b40d-469d-a696-a3ceaa414033',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A02DD6B66F898ED3E2C',
+    participant: undefined
+  },
+  messageTimestamp: 1686087270,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'Ya está ya',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya está ya',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A62A68110649A0186F9',
+    participant: undefined
+  },
+  messageTimestamp: 1686087271,
+  pushName: 'Jhade A',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/32125703_643868034329294_5517536635809784216_n.enc?ccb=11-4&oh=01_AdQ8_3k-39FEScmLvZUuvM-oO5r2SZqVIZsgVZWn5Hhn6w&oe=64A7152D&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/32125703_643868034329294_5517536635809784216_n.enc?ccb=11-4&oh=01_AdQ8_3k-39FEScmLvZUuvM-oO5r2SZqVIZsgVZWn5Hhn6w&oe=64A7152D',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 4996,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A286ECC38996C36F330',
+    participant: undefined
+  },
+  messageTimestamp: 1686087281,
+  pushName: 'Jhade A',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '😂',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACE594A515268E153F2',
+    participant: undefined
+  },
+  messageTimestamp: 1686087488,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'No hay disco D',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No hay disco D',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA7824799CD6910FD15',
+    participant: undefined
+  },
+  messageTimestamp: 1686087489,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'Solo C',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Solo C',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB14057D404791D0935',
+    participant: undefined
+  },
+  messageTimestamp: 1686087492,
+  pushName: 'Jhade A',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/30259106_6301333173291184_5042678279043358591_n.enc?ccb=11-4&oh=01_AdRsvzpnPW9evagqQVlyhsejlI2Ho2_S8l-fRLxVSCxVew&oe=64A6FF52&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/30259106_6301333173291184_5042678279043358591_n.enc?ccb=11-4&oh=01_AdRsvzpnPW9evagqQVlyhsejlI2Ho2_S8l-fRLxVSCxVew&oe=64A6FF52',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACD764C397E28B11926',
+    participant: undefined
+  },
+  messageTimestamp: 1686087512,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'Oh no tengo google nd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oh no tengo google nd',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB2AFEA0C69C6532B9E',
+    participant: undefined
+  },
+  messageTimestamp: 1686087513,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'XD',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'XD',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A126DEC2B87AAB00CA5',
+    participant: undefined
+  },
+  messageTimestamp: 1686087516,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'Cómo se hace',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo se hace',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3B55DD81048737D7E5',
+    participant: undefined
+  },
+  messageTimestamp: 1686087517,
+  pushName: 'Jhade A',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/31381868_1198564037369981_3302499715573716310_n.enc?ccb=11-4&oh=01_AdQAJeb5-_C9w7wSFo8lkeL7gNmQ40Cq306GdBpQqMRmHg&oe=64A71180&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/31381868_1198564037369981_3302499715573716310_n.enc?ccb=11-4&oh=01_AdQAJeb5-_C9w7wSFo8lkeL7gNmQ40Cq306GdBpQqMRmHg&oe=64A71180',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '51933610948'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51933610948@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0A717B56752468CD0D',
+    participant: undefined
+  },
+  messageTimestamp: 1686087520,
+  pushName: 'Jhade A',
+  message: Message {
+    conversation: 'q risa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'q risa',
+  from: '51933610948'
+}
