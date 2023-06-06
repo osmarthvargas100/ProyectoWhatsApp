@@ -5,7 +5,7 @@ Bienvenido al repositorio de la Clínica Dental Sonrisas Felices. En este proyec
 
 ## Descripción del proyecto
 
-El bot de WhatsApp permite a los usuarios obtener información sobre nuestra clínica dental, incluyendo horarios de atención, servicios ofrecidos y direcciones de nuestras sedes. Además, brinda la opción de programar citas, acceder a tutoriales y unirse a nuestra comunidad en Discord.
+El bot de WhatsApp permite a los usuarios obtener información sobre nuestra clínica dental, incluyendo horarios de atención, servicios ofrecidos y direcciones de nuestras sedes. Además, brinda la opción de programar citas.
 
 ## Instalación y configuración
 
